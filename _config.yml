@@ -28,9 +28,14 @@ twitter_username: bennet_huber
 github_username:  bhuber
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
+
+paginate: 10
+
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.

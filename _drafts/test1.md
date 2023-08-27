@@ -10,4 +10,4 @@ def foo:
     return 2 + 3
 ```
 
-![Here's a test image](/follownopath/assets/images/test1.jpg)
+![Here's a test image](/assets/images/test1.jpg)
